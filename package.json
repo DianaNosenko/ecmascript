@@ -1,0 +1,27 @@
+{
+  "name": "super_package",
+  "version": "0.0.1",
+  "description": " best project",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaNosenko/ecmascript.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaNosenko/ecmascript/issues"
+  },
+  "homepage": "https://github.com/DianaNosenko/ecmascript#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
